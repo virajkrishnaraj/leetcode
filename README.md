@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/virajkrishnaraj/leetcode/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
