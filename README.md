@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,10 +18,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -41,6 +44,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/virajkrishnaraj/leetcode/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
