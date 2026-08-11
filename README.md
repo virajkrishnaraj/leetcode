@@ -7,6 +7,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajkrishnaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -72,4 +73,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
