@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
@@ -21,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/virajkrishnaraj/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/virajkrishnaraj/leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
