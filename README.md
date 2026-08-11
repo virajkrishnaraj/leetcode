@@ -54,11 +54,13 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/virajkrishnaraj/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/virajkrishnaraj/leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/virajkrishnaraj/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajkrishnaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/virajkrishnaraj/leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
