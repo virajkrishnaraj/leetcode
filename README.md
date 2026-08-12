@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/virajkrishnaraj/leetcode/tree/master/0258-add-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/virajkrishnaraj/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
