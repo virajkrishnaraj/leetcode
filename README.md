@@ -6,6 +6,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajkrishnaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/virajkrishnaraj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -83,4 +84,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/virajkrishnaraj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
