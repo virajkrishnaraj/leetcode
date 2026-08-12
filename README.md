@@ -8,6 +8,7 @@
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/virajkrishnaraj/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/virajkrishnaraj/leetcode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/virajkrishnaraj/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
