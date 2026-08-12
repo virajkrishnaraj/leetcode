@@ -12,4 +12,8 @@ class Solution(object):
                 return word
         return ""
 
-        
+# for i in range(len(words)):
+#             if words[i]==words[i][::-1]:
+#                 return words[i]
+#         else:
+#             return ""     
