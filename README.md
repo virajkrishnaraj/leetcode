@@ -11,6 +11,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/virajkrishnaraj/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/virajkrishnaraj/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/virajkrishnaraj/leetcode/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/virajkrishnaraj/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
