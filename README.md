@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajkrishnaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/virajkrishnaraj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/virajkrishnaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -26,10 +28,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2501-longest-square-streak-in-an-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -47,6 +51,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -125,4 +130,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/virajkrishnaraj/leetcode/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
