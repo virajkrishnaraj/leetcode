@@ -9,6 +9,7 @@
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/virajkrishnaraj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/virajkrishnaraj/leetcode/tree/master/0739-daily-temperatures) |
 | [1991-find-the-middle-index-in-array](https://github.com/virajkrishnaraj/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/virajkrishnaraj/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -134,4 +135,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/virajkrishnaraj/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/virajkrishnaraj/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
