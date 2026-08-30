@@ -1,10 +1,11 @@
 class Solution(object):
     def findWordsContaining(self, words, x):
         result = []
-        for index,word in enumerate(words):
-            if x in word:
+        for index in range(len(words)):
+            if x in words[index]:
                 result.append(index)
         return result
+
 
 
                 
