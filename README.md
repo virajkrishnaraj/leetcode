@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/virajkrishnaraj/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/virajkrishnaraj/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/virajkrishnaraj/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/virajkrishnaraj/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/virajkrishnaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/virajkrishnaraj/leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajkrishnaraj/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/virajkrishnaraj/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/virajkrishnaraj/leetcode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/virajkrishnaraj/leetcode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -151,6 +153,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/virajkrishnaraj/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/virajkrishnaraj/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
