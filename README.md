@@ -96,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/virajkrishnaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/virajkrishnaraj/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/virajkrishnaraj/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/virajkrishnaraj/leetcode/tree/master/0344-reverse-string) |
@@ -109,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/virajkrishnaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/virajkrishnaraj/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajkrishnaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/virajkrishnaraj/leetcode/tree/master/0344-reverse-string) |
@@ -131,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/virajkrishnaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/virajkrishnaraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/virajkrishnaraj/leetcode/tree/master/0509-fibonacci-number) |
 | [2501-longest-square-streak-in-an-array](https://github.com/virajkrishnaraj/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/virajkrishnaraj/leetcode/tree/master/1672-richest-customer-wealth) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/virajkrishnaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
